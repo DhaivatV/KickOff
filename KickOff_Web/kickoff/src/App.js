@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       
     
-          <>KICKOFF : Stats, Prediction and Much More</>
+          <h1>KICKOFF : Stats, Prediction and Much More</h1>
         
     </div>
   );
